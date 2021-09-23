@@ -9,7 +9,7 @@
         <version>5.0.12-SNAPSHOT</version>
     </parent>
 
-    <version>5.0.12-ICN</version>
+    <version>5.0.12-ICN-SNAPSHOT</version>
 
     <artifactId>xchange-okex</artifactId>
 
